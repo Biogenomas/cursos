@@ -57,6 +57,13 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://biogenomas.github.io/cursos/pt/cursos/index.html"/>
     </url>
     <url>
+        <loc>https://biogenomas.github.io/cursos/cursos/cbrg-2026/index.html</loc>
+        <lastmod>2026-11-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://biogenomas.github.io/cursos/cursos/cbrg-2026/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://biogenomas.github.io/cursos/pt/cursos/cbrg-2026/index.html"/>
+    </url>
+    <url>
         <loc>https://biogenomas.github.io/cursos/cursos/montagem-genomas-nanopore/index.html</loc>
         <lastmod>2026-11-19</lastmod>
         <changefreq>daily</changefreq>
@@ -153,6 +160,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pt" href="https://biogenomas.github.io/cursos/pt/cursos/index.html"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://biogenomas.github.io/cursos/cursos/index.html"/>
+    </url>
+    <url>
+        <loc>https://biogenomas.github.io/cursos/pt/cursos/cbrg-2026/index.html</loc>
+        <lastmod>2026-11-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://biogenomas.github.io/cursos/pt/cursos/cbrg-2026/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://biogenomas.github.io/cursos/cursos/cbrg-2026/index.html"/>
     </url>
     <url>
         <loc>https://biogenomas.github.io/cursos/pt/cursos/montagem-genomas-nanopore/index.html</loc>
