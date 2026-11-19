@@ -13,17 +13,19 @@ Catálogo de cursos de genómica y bioinformática ofrecidos en los países de l
 
 <div class="grid cards" markdown>
 
--   :flag_br: **Curso teórico en el Congreso Brasileño de Recursos Genéticos**
+-   :flag_br: **Producción de genomas de referencia con lecturas largas**
 
     ---
 
-    Curso teórico de 4 horas realizado durante el congreso.
+    Minicurso teórico de 4 horas en el Congreso Brasileño de Recursos Genéticos (CBRG), Florianópolis.
 
     **Modalidad:** Presencial<br>
     **Fecha:** Noviembre de 2026<br>
     **Idioma:** Portugués
 
-    :octicons-clock-fill-24:{ .yellow } **Materiales próximamente**
+    :octicons-check-circle-fill-24:{ .green } **Diapositivas disponibles (parcial)**
+
+    [:material-presentation: Diapositivas](cbrg-2026/index.md)
 
 -   :flag_br: **Curso de Ensamblaje de Genomas de Referencia con datos Nanopore**
 
