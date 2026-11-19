@@ -35,7 +35,7 @@ Catálogo de cursos de genômica e bioinformática oferecidos nos países da Red
     **Data:** 16 a 27 de novembro de 2026<br>
     **Idioma:** Português
 
-    :octicons-check-circle-fill-24:{ .green } **Protocolos de bancada disponíveis** · :octicons-clock-fill-24:{ .yellow } **Bioinformática em construção**
+    :octicons-check-circle-fill-24:{ .green } **Bancada e bioinformática disponíveis**
 
     [:material-book-open-variant: Tutorial](montagem-genomas-nanopore/index.md)
 
@@ -69,7 +69,7 @@ Há três caminhos, conforme o que for mais prático para você:
 
 1. **Pelo representante do seu país.** Envie as informações do curso ao membro do comitê do seu país (veja [Equipe](../equipo.md)), que as incluirá na página.
 2. **Por formulário.** *(Em breve.)* Um formulário simples com nome do curso, país, data, modalidade, idioma, links e contato.
-3. **Diretamente no GitHub.** Se você conhece o GitHub, edite este arquivo ou abra uma *issue* no [repositório](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new).
+3. **Diretamente no GitHub.** Se você conhece o GitHub, edite este arquivo ou abra uma *issue* no [repositório](https://github.com/Biogenomas/cursos/issues/new).
 
 Não é preciso mudar o formato dos seus materiais: basta um link para onde eles já estão.
 

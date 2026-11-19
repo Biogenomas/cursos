@@ -35,7 +35,7 @@ Catálogo de cursos de genómica y bioinformática ofrecidos en los países de l
     **Fecha:** Del 16 al 27 de noviembre de 2026<br>
     **Idioma:** Portugués
 
-    :octicons-check-circle-fill-24:{ .green } **Protocolos de laboratorio disponibles** · :octicons-clock-fill-24:{ .yellow } **Bioinformática en construcción**
+    :octicons-check-circle-fill-24:{ .green } **Laboratorio y bioinformática disponibles**
 
     [:material-book-open-variant: Tutorial](montagem-genomas-nanopore/index.md)
 
@@ -69,7 +69,7 @@ Hay tres caminos, según lo que te resulte más práctico:
 
 1. **Con tu representante de país.** Envía la información del curso al miembro del comité de tu país (ver [Equipo](../equipo.md)), que la incluirá en la página.
 2. **Por formulario.** *(Próximamente.)* Un formulario sencillo con nombre del curso, país, fecha, modalidad, idioma, enlaces y contacto.
-3. **Directamente en GitHub.** Si conoces GitHub, edita este archivo o abre una *issue* en el [repositorio](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new).
+3. **Directamente en GitHub.** Si conoces GitHub, edita este archivo o abre una *issue* en el [repositorio](https://github.com/Biogenomas/cursos/issues/new).
 
 No es necesario cambiar el formato de tus materiales: basta con un enlace a donde ya están.
 

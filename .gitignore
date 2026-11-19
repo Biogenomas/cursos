@@ -34,3 +34,6 @@ id_ed25519*
 id_rsa*
 *.pem
 _to_delete/
+
+# Gerado no deploy por scripts/sync_probioinfo.sh
+docs/assets/probioinfo-nanopore/

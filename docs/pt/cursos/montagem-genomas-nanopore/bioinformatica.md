@@ -1,22 +1,10 @@
 # Parte 2 · Bioinformática
 
-!!! warning "Em construção"
-    Os materiais desta parte do [curso](index.md) estão sendo preparados e serão publicados aqui em breve.
+<!--
+  NÃO EDITE ESTE ARQUIVO. Na publicação do site, o GitHub Actions o substitui pelo
+  tutorial "Montagem de genomas com dados Nanopore" do PRO-BIOINFO
+  (scripts/sync_probioinfo.sh). Para ver localmente: bash scripts/sync_probioinfo.sh
+-->
 
-## :material-map-outline: Conteúdo previsto
-
-Seguindo as recomendações de qualidade do [Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/), a parte de bioinformática cobrirá:
-
-- [ ] Controle de qualidade e filtragem das leituras Nanopore
-- [ ] Montagem do genoma
-- [ ] Avaliação da qualidade da montagem
-- [ ] *Scaffolding*
-- [ ] Anotação
-- [ ] Curadoria
-- [ ] Depósito dos dados em repositórios públicos
-
-## :material-book-open-page-variant: Material de apoio
-
-Enquanto os materiais não são publicados, os *pipelines* de referência para análise, filtragem e montagem estão disponíveis no tutorial do PRO-BIOINFO:
-
-[:octicons-arrow-right-24: Montagem de genomas com dados Nanopore (PRO-BIOINFO)](https://lgbio-ufg.github.io/PRO-BIOINFO/cursos/nanopore/index.html){ .md-button }
+!!! info "Conteúdo espelhado do PRO-BIOINFO"
+    No site publicado, esta página reproduz automaticamente o tutorial [Montagem de genomas com dados Nanopore](https://lgbio-ufg.github.io/PRO-BIOINFO/cursos/nanopore/index.html) do PRO-BIOINFO.

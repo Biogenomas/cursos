@@ -51,9 +51,9 @@ La parte práctica incluye la preparación de bibliotecas con el *Ligation Seque
 
     ---
 
-    Control de calidad de las lecturas, ensamblaje, evaluación, *scaffolding*, anotación, curaduría y depósito de los datos.
+    Control de calidad de las lecturas, ensamblaje con Flye, Hifiasm y NextDenovo, evaluación (QUAST, Merqury, BUSCO), pulido, *scaffolding* y control de contaminación.
 
-    :octicons-clock-fill-24:{ .yellow } **En construcción**
+    :octicons-check-circle-fill-24:{ .green } **Disponible (en portugués)** (tutorial del PRO-BIOINFO)
 
     [:octicons-arrow-right-24: Bioinformática](bioinformatica.md)
 

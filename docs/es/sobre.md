@@ -76,4 +76,4 @@ Conoce a las personas del comité en la página [Equipo](equipo.md).
 ## :material-email-outline: Contacto
 
 - Red BioGenomas: [genotropics.org](https://www.genotropics.org/neotropical-biogenomes-network)
-- Para temas de cursos, contacta a la [coordinación del comité](equipo.md) o abre una *issue* en el [repositorio de GitHub](https://github.com/RenataODias/biogenomas-cet-cursos/issues).
+- Para temas de cursos, contacta a la [coordinación del comité](equipo.md) o abre una *issue* en el [repositorio de GitHub](https://github.com/Biogenomas/cursos/issues).

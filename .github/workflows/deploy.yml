@@ -32,5 +32,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Espelhar tutorial do PRO-BIOINFO
+        run: bash scripts/sync_probioinfo.sh
+
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force

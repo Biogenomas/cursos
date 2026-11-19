@@ -48,9 +48,9 @@ A parte prática inclui o preparo de bibliotecas com o *Ligation Sequencing Kit*
 
     ---
 
-    Controle de qualidade das leituras, montagem, avaliação, *scaffolding*, anotação, curadoria e depósito dos dados.
+    Controle de qualidade das leituras, montagem com Flye, Hifiasm e NextDenovo, avaliação (QUAST, Merqury, BUSCO), polimento, *scaffolding* e checagem de contaminação.
 
-    :octicons-clock-fill-24:{ .yellow } **Em construção**
+    :octicons-check-circle-fill-24:{ .green } **Disponível** (tutorial do PRO-BIOINFO)
 
     [:octicons-arrow-right-24: Bioinformática](bioinformatica.md)
 

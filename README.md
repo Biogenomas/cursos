@@ -3,7 +3,7 @@
 Sitio de cursos del **Comité de Formación y Transferencia de Conocimiento – Red de Genomas Neotropicales (Red BioGenomas)**.
 Site de cursos do **Comitê de Formação e Transferência de Conhecimento – Rede de Genomas Neotropicais (Rede BioGenomas)**.
 
-🌐 https://RenataODias.github.io/biogenomas-cet-cursos/
+🌐 https://biogenomas.github.io/cursos/
 
 ## Estrutura
 
@@ -16,6 +16,10 @@ docs/stylesheets/        CSS (cores do site)
 data/                    dados de exemplo pequenos
 .github/workflows/       publicação automática no GitHub Pages
 ```
+
+## Conteúdo espelhado
+
+A página *Parte 2 · Bioinformática* do curso de Nanopore é gerada na publicação a partir do tutorial do [PRO-BIOINFO](https://lgbio-ufg.github.io/PRO-BIOINFO/cursos/nanopore/index.html) (`scripts/sync_probioinfo.sh`). Basta atualizar o tutorial no PRO-BIOINFO e rodar o workflow **Deploy MkDocs site** aqui.
 
 ## Rodar localmente
 

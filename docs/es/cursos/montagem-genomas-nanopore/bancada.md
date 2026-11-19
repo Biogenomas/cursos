@@ -5,7 +5,7 @@ Protocolos del [Curso de Ensamblaje de Genomas de Referencia con datos Nanopore]
 !!! info "Protocolos en portugués"
     Los protocolos completos están disponibles en portugués:
 
-    [:octicons-arrow-right-24: Ver los protocolos (portugués)](https://renataodias.github.io/biogenomas-cet-cursos/pt/cursos/montagem-genomas-nanopore/bancada.html){ .md-button }
+    [:octicons-arrow-right-24: Ver los protocolos (portugués)](https://biogenomas.github.io/cursos/pt/cursos/montagem-genomas-nanopore/bancada.html){ .md-button }
 
 ## :material-format-list-checks: Etapas
 

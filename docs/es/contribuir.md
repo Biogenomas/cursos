@@ -35,7 +35,7 @@ El sitio se construye con [MkDocs Material](https://squidfunk.github.io/mkdocs-m
 ## :material-folder-outline: Organización del repositorio
 
 ```text
-biogenomas-cet-cursos/
+cursos/
 ├── mkdocs.yml              # configuración y menú del sitio
 ├── docs/
 │   ├── es/                 # páginas en español (idioma principal)
