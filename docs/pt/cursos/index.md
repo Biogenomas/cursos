@@ -20,7 +20,7 @@ Catálogo de cursos de genômica e bioinformática oferecidos nos países da Red
     Minicurso teórico de 4 horas no Congresso Brasileiro de Recursos Genéticos (CBRG), Florianópolis.
 
     **Modalidade:** Presencial<br>
-    **Data:** Novembro de 2026<br>
+    **Data:** 10 de novembro de 2026<br>
     **Idioma:** Português
 
     :octicons-check-circle-fill-24:{ .green } **Slides disponíveis (parcial)**
